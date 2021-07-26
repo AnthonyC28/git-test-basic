@@ -12,3 +12,5 @@ Cambio para prueba de GitHub Desktop
 Texto modifcado desde Visual Studio Code
 
 Segundo cambio desde Visual Studio Code
+
+Tercer cambio, uso del plugin para Visual Studio Code
